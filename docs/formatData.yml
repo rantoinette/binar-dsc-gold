@@ -1,0 +1,11 @@
+tags:
+  - name: Data cleansing
+post:
+  description: Input Data Disini
+responses:
+  '200':
+    description: Success
+  '400':
+    description: Bad Request
+  '500':
+    description: Internal Server Error
